@@ -55,9 +55,9 @@ Contact: @Roee_Ilouz (X)
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🖥️ Systems & Self-Hosting</h4>
+      <h4 align="center">🖥️ Systems & Homelab GitOps</h4>
       <p align="center">
-        Linux server environments, containerization with <b>Docker</b>, <b>CasaOS</b>, <b>Nginx Reverse Proxy (NPM)</b>, and resilient home lab infrastructure.
+        <b>Raspberry Pi 5 (8GB, 1TB NVMe)</b> running <b>Debian 13 Trixie</b>, <b>Docker Compose</b> (30+ services), <b>Zero Trust Ingress</b> (Cloudflare/Twingate), <b>Gluetun VPN</b>, and GitOps automation.
       </p>
     </td>
     <td width="50%" valign="top">
@@ -129,13 +129,14 @@ Contact: @Roee_Ilouz (X)
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏠 Home Lab & Network Infrastructure</h3>
-      <p><em>Self-Hosted Systems & Automation</em></p>
-      <p>Managing self-hosted media storage, reverse proxies, and personal automation suites on low-power hardware using Docker, CasaOS, and Nginx Proxy Manager.</p>
+      <h3>🏠 <a href="https://github.com/RoeeIlouz/Homelab">Homelab Infrastructure & GitOps</a></h3>
+      <p><em>Raspberry Pi 5 Production Node & Stacks</em></p>
+      <p>24/7 self-hosted node (RPi 5 8GB, 1TB NVMe, Debian 13) orchestrating 30+ containerized services, Zero Trust ingress (Cloudflare/Twingate), VPN kill-switch, and automated backup/health GitOps.</p>
       <p>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/Linux-Server-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-        <img src="https://img.shields.io/badge/CasaOS-NPM-cyan?style=flat-square" alt="SelfHost" />
+        <a href="https://github.com/RoeeIlouz/Homelab"><img src="https://img.shields.io/badge/GitHub-Homelab_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Homelab Repo" /></a>
+        <img src="https://img.shields.io/badge/RPi_5-8GB_RAM-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" alt="RPi 5" />
+        <img src="https://img.shields.io/badge/1TB-NVMe_SSD-3b82f6?style=flat-square" alt="1TB NVMe" />
+        <img src="https://img.shields.io/badge/Debian-13_Trixie-D70A53?style=flat-square&logo=debian&logoColor=white" alt="Debian" />
       </p>
     </td>
   </tr>
