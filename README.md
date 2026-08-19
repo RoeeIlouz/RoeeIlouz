@@ -2,7 +2,7 @@
 
   <!-- Typing SVG Banner -->
   <a href="https://github.com/RoeeIlouz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Roee+Ilouz+(ROCI)+%F0%9F%91%8B;Electrical+Engineering+Student+%26+Mobile+Developer;Flutter+%E2%80%A2+Self-Hosting+%E2%80%A2+Agentic+AI+Workflows;Bridging+Hardware+Fundamentals+with+Modern+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Roee+Ilouz+(ROCI)+%F0%9F%91%8B;Electrical+Engineering+Student+%26+Mobile+Developer;Flutter+%E2%80%A2+Self-Hosting+%E2%80%A2+Agentic+AI+Workflows;Bridging+Hardware+Fundamentals+with+Modern+Software" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -11,7 +11,7 @@
   <p align="center">
     <a href="https://x.com/Roee_Ilouz"><img src="https://img.shields.io/badge/X%20(Twitter)-@Roee__Ilouz-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
     <a href="https://github.com/RoeeIlouz"><img src="https://img.shields.io/badge/GitHub-RoeeIlouz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://roeeilouz.github.io"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-d97706?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://ilouz.xyz"><img src="https://img.shields.io/badge/Website-ilouz.xyz-d97706?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
     <img src="https://img.shields.io/badge/Focus-Electrical%20Engineering%20⚡-0284c7?style=for-the-badge" alt="Focus" />
   </p>
 
@@ -25,6 +25,7 @@
 Name: Roee Ilouz (ROCI)
 Role: Electrical Engineering Student & Mobile Developer
 Location: Israel 🇮🇱
+Domain: https://ilouz.xyz
 Focus: Cross-Platform Mobile • Self-Hosted Infrastructure • Agentic AI Workflows
 Interests: Circuit Analysis • Embedded Systems • Autonomous Agents • Low-Power Servers
 Contact: @Roee_Ilouz (X)
@@ -128,10 +129,11 @@ Contact: @Roee_Ilouz (X)
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/RoeeIlouz/ROCIsApp.github.io">ROCIsApp & Portfolio</a></h3>
-      <p><em>Web Presence & Interactive Applications</em></p>
-      <p>Personal portfolio site and interactive web applications demonstrating responsive UI design, component structures, and digital workspace hubs.</p>
+      <h3>🌐 <a href="https://ilouz.xyz">ilouz.xyz & Portfolio</a></h3>
+      <p><em>Personal Website & Digital Workspace</em></p>
+      <p>Personal domain and interactive web application demonstrating responsive UI design, hardware/software projects, and technical writeups.</p>
       <p>
+        <img src="https://img.shields.io/badge/Domain-ilouz.xyz-d97706?style=flat-square" alt="Domain" />
         <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
@@ -174,8 +176,8 @@ Contact: @Roee_Ilouz (X)
     <img src="https://img.shields.io/badge/GitHub-RoeeIlouz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://roeeilouz.github.io">
-    <img src="https://img.shields.io/badge/Personal_Website-roeeilouz.github.io-d97706?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  <a href="https://ilouz.xyz">
+    <img src="https://img.shields.io/badge/Personal_Website-ilouz.xyz-d97706?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
 
   <br/><br/>
