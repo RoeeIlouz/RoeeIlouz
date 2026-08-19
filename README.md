@@ -103,7 +103,7 @@ Contact: @Roee_Ilouz (X)
       <p>Cross-platform productivity app with offline synchronization, natural language input, checklists, and Google Calendar integration.</p>
       <p>
         <a href="https://play.google.com/store/apps/details?id=com.rocisapps.tasks"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store" /></a>
-        <a href="https://rocisapps.com"><img src="https://img.shields.io/badge/Web_App-rocisapps.com-ef4444?style=flat-square" alt="Web" /></a>
+        <a href="https://tasks.rocisapps.com"><img src="https://img.shields.io/badge/Web_App-tasks.rocisapps.com-ef4444?style=flat-square" alt="Web" /></a>
         <a href="https://github.com/RoeeIlouz/ROCIsTasks-Public"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></a>
       </p>
     </td>
