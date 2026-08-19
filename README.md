@@ -12,6 +12,7 @@
     <a href="https://x.com/Roee_Ilouz"><img src="https://img.shields.io/badge/X%20(Twitter)-@Roee__Ilouz-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
     <a href="https://github.com/RoeeIlouz"><img src="https://img.shields.io/badge/GitHub-RoeeIlouz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://roee.ilouz.xyz"><img src="https://img.shields.io/badge/Website-roee.ilouz.xyz-ef4444?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://rocisapps.com"><img src="https://img.shields.io/badge/Apps-rocisapps.com-e11d48?style=for-the-badge&logo=googleplay&logoColor=white" alt="ROCIsApps" /></a>
     <img src="https://img.shields.io/badge/Focus-Electrical%20Engineering%20⚡-0284c7?style=for-the-badge" alt="Focus" />
   </p>
 
@@ -97,15 +98,26 @@ Contact: @Roee_Ilouz (X)
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 <a href="https://github.com/RoeeIlouz/ROCIsTasks-Public">ROCIsTasks</a></h3>
-      <p><em>Productivity & Task Management Mobile Engine</em></p>
-      <p>Building dedicated task and workflow tracking mobile applications with clean user experience, cross-platform Flutter architecture, and robust monetization / subscription logic.</p>
+      <h3>📱 <a href="https://play.google.com/store/apps/details?id=com.rocisapps.tasks">ROCIs Tasks</a></h3>
+      <p><em>Smart Productivity & Task Engine</em></p>
+      <p>Cross-platform productivity app with offline synchronization, natural language input, checklists, and Google Calendar integration.</p>
       <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/Dart-00B4AB?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-        <img src="https://img.shields.io/badge/Productivity-red?style=flat-square" alt="Productivity" />
+        <a href="https://play.google.com/store/apps/details?id=com.rocisapps.tasks"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store" /></a>
+        <a href="https://rocisapps.com"><img src="https://img.shields.io/badge/Web_App-rocisapps.com-ef4444?style=flat-square" alt="Web" /></a>
+        <a href="https://github.com/RoeeIlouz/ROCIsTasks-Public"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3>✨ <a href="https://rocisapps.com">ROCIs Apps Platform</a></h3>
+      <p><em>Official App Suite & Ecosystem Hub</em></p>
+      <p>The digital headquarters for ROCIs Apps mobile applications, feature changelogs, design systems, and product announcements.</p>
+      <p>
+        <a href="https://rocisapps.com"><img src="https://img.shields.io/badge/Website-rocisapps.com-ef4444?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+        <img src="https://img.shields.io/badge/Brand-Ecosystem-blue?style=flat-square" alt="Ecosystem" />
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🤖 Autonomous Agents & Tooling</h3>
       <p><em>Agentic Frameworks & MCP Connectors</em></p>
@@ -116,8 +128,6 @@ Contact: @Roee_Ilouz (X)
         <img src="https://img.shields.io/badge/Agentic-green?style=flat-square" alt="Agents" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🏠 Home Lab & Network Infrastructure</h3>
       <p><em>Self-Hosted Systems & Automation</em></p>
@@ -128,12 +138,13 @@ Contact: @Roee_Ilouz (X)
         <img src="https://img.shields.io/badge/CasaOS-NPM-cyan?style=flat-square" alt="SelfHost" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://roee.ilouz.xyz">roee.ilouz.xyz & Portfolio</a></h3>
-      <p><em>Personal Website & Digital Workspace</em></p>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🌐 <a href="https://roee.ilouz.xyz">roee.ilouz.xyz — Personal Portfolio & Workspace</a></h3>
       <p>Personal domain and interactive web application demonstrating responsive UI design, hardware/software projects, and technical writeups.</p>
       <p>
-        <img src="https://img.shields.io/badge/Domain-roee.ilouz.xyz-ef4444?style=flat-square" alt="Domain" />
+        <a href="https://roee.ilouz.xyz"><img src="https://img.shields.io/badge/Domain-roee.ilouz.xyz-ef4444?style=flat-square" alt="Domain" /></a>
         <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
