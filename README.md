@@ -2,7 +2,7 @@
 
   <!-- GitSkins Crimson Cyber Wordmark & Title Banner -->
   <a href="https://roee.ilouz.xyz">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=DC2626&center=true&vCenter=true&width=850&lines=%3C%2F%3E+Roee+Ilouz+(ROCI)+%C2%B7+SysArch+%26+Mobile+Engineer;const+mission+%3D+%22Building+rocisapps+to+survive+college%22%3B;gcc+-O3+hardware.c+software.dart+homelab.sys+-o+roee;Uptime%3A+24%2F7+on+Debian+13+%C2%B7+Raspberry+Pi+5+Node" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=DC2626&center=true&vCenter=true&width=850&lines=%3C%2F%3E+Roee+Ilouz+(ROCI)+%C2%B7+SysArch+%26+Mobile+Engineer;const+mission+%3D+%22Building+rocisapps+to+survive+college%22%3B;const+stack+%3D+%5B%22Flutter%22%2C+%22Debian+13%22%2C+%22Docker%22%2C+%22MCP%22%5D%3B;Uptime%3A+24%2F7+on+Debian+13+%C2%B7+Raspberry+Pi+5+Node" alt="Typing Banner" />
   </a>
 
   <br/>
@@ -17,7 +17,7 @@
     &nbsp;
     <a href="https://rocisapps.com"><img src="https://img.shields.io/badge/Studio-rocisapps.com-dc2626?style=for-the-badge&logo=googleplay&logoColor=white" alt="ROCIs Apps" /></a>
     &nbsp;
-    <img src="https://img.shields.io/badge/Kernel-EE%20Student%20%E2%9A%A1-450a0a?style=for-the-badge" alt="Kernel" />
+    <a href="mailto:roee@ilouz.xyz"><img src="https://img.shields.io/badge/Email-roee@ilouz.xyz-450a0a?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
   </p>
 
 </div>
@@ -26,57 +26,48 @@
 
 ---
 
-### 💻 `// 01. WHOAMI: SYSTEM RUNTIME & MEMORY DUMP`
+### 💻 `// 01. WHOAMI: DEVELOPER PROFILE`
 
-```c
-/**
- * @file roci_runtime.c
- * @author Roee Ilouz <roee@ilouz.xyz>
- * @brief Low-level developer descriptor & system execution state
- */
+<table>
+  <tr>
+    <td width="38%" align="center" valign="middle">
+      <br/>
+      <img src="https://www.gitskins.com/api/section/portrait?username=RoeeIlouz&theme=github-dark&style=aura" alt="Roee Ilouz ASCII Dot-Matrix Portrait" width="100%" />
+      <br/>
+      <sub>⚡ <i>GitSkins Dot-Matrix ASCII Portrait</i></sub>
+    </td>
+    <td width="62%" valign="top">
 
-#include <stdio.h>
-#include <stdint.h>
-#include <stdbool.h>
+```typescript
+// roci.config.ts
+export const developer: Engineer = {
+  name: "Roee Ilouz (ROCI)",
+  role: "Electrical Engineering Student & Mobile Developer",
+  domains: ["Cross-Platform Mobile", "Systems & Homelab", "Agentic AI"],
+  hardware: "Raspberry Pi 5 (8GB RAM · 1TB NVMe · Debian 13)",
+  ecosystem: "rocisapps (apps built to survive college)",
 
-typedef struct {
-    const char *handle;          // "RoeeIlouz" [ROCI]
-    const char *title;           // "EE Undergrad & Indie Software Engineer"
-    const char *location;        // "Israel" [31.0461° N, 34.8516° E]
-    const char *primary_cluster; // "Debian 13 Trixie @ RPi 5 (8GB RAM, 1TB NVMe)"
-    const char *ecosystem;       // "rocisapps — cross-platform tooling for students"
-    uint32_t    active_services; // 30+ Docker containers running 24/7
-    double      caffeine_buffer; // 0.94; /* WARNING: Segfault if < 0.20 */
-} DeveloperProfile;
+  current_focus: [
+    "📱 Shipping ROCIs Tasks with Flutter across Android & Web",
+    "🏠 Orchestrating 30+ Docker containers behind Zero Trust",
+    "🤖 Developing Autonomous Workflows & MCP tooling with Antigravity"
+  ],
 
-int main(void) {
-    DeveloperProfile dev = {
-        .handle          = "RoeeIlouz (ROCI)",
-        .title           = "Electrical Engineering & Systems Builder",
-        .primary_cluster = "homelab-node01.lan [RPi 5 / 1TB NVMe / Zero-Trust]",
-        .ecosystem       = "rocisapps.com",
-        .active_services = 32,
-        .caffeine_buffer = 0.94
-    };
-
-    while (dev.caffeine_buffer > 0.15) {
-        build_flutter_apps();     // Cross-platform mobile & offline sync
-        optimize_kernel_stacks(); // Debian, Docker networks, Zero-Trust ingress
-        dispatch_mcp_agents();    // Model Context Protocol & Antigravity tooling
-    }
-
-    return 0; // Exit success
-}
+  status: "Online & shipping code",
+  contact: "roee@ilouz.xyz"
+};
 ```
 
 ```bash
-roee@homelab-node01:~$ ./diagnostics.sh --inspect-profile
-[OK] TARGET IDENT...... Roee Ilouz | EE Undergrad · Indie Hacker · Homelabber
-[OK] HARDWARE BASE..... RPi 5 8GB · 1TB NVMe SSD · Gigabit LAN · Zero-Trust VPN
-[OK] RUNTIME STACKS.... Flutter / Dart (Mobile) · C99 / Python (Systems) · Docker
-[OK] PIPELINE STATUS... Shipping ROCIs Tasks · Deploying Agents · College Prep
-[OK] THREAT LEVEL...... 0 critical errors | 32 microservices healthy
+roee@homelab:~$ ./whoami --short
+[OK] Identity: Roee Ilouz | Electrical Engineering & Mobile Apps
+[OK] Node:     Debian 13 Trixie @ RPi 5 · 32 healthy containers
+[OK] Stacks:   Flutter / Dart · C / Python · Docker · Cloudflare Zero Trust
 ```
+
+   </td>
+  </tr>
+</table>
 
 ---
 
@@ -203,8 +194,8 @@ roee@homelab-node01:~$ ./diagnostics.sh --inspect-profile
     <img src="https://img.shields.io/badge/Portfolio-roee.ilouz.xyz-b91c1c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   &nbsp;
-  <a href="mailto:Roee.ilouz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Roee.ilouz@gmail.com-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:roee@ilouz.xyz">
+    <img src="https://img.shields.io/badge/Email-roee@ilouz.xyz-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
   <br/><br/>
