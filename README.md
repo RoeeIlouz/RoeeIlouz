@@ -163,6 +163,35 @@ core_pillars:
 
 ---
 
+### `SIDE PROJECTS`
+
+<table>
+  <tr>
+    <td width="72" valign="top">
+      <a href="https://rocisapps.com/side-projects.html#context-menu-editor"><img src="https://rocisapps.com/Assets/web/cme-icon.png" width="64" alt="Context Menu Editor icon" /></a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/RoeeIlouz/ROCIsContextMenu-Editor">Context Menu Editor</a></h3>
+      <p><em>Windows right-click menu editor</em></p>
+      <p>
+        See everything in the Windows right-click menu and clean it up: commands, shell extensions and Windows 11 menu items in one list. Turn entries off without deleting them, add your own commands and Send to items, and undo any change. Runs straight from PowerShell:
+      </p>
+
+```powershell
+irm https://rocisapps.com/cme | iex
+```
+
+<p>
+<a href="https://rocisapps.com/side-projects.html#context-menu-editor"><img src="https://img.shields.io/badge/rocisapps.com-Side_projects-991b1b?style=flat-square&logo=googlechrome&logoColor=white" alt="Side projects page" /></a>
+<a href="https://github.com/RoeeIlouz/ROCIsContextMenu-Editor"><img src="https://img.shields.io/badge/GitHub-ROCIsContextMenu--Editor-450a0a?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+<img src="https://img.shields.io/badge/PowerShell-WPF-b91c1c?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell + WPF" />
+</p>
+</td>
+</tr>
+</table>
+
+---
+
 ### 📊 `GITHUB TELEMETRY`
 
 <div align="center">
