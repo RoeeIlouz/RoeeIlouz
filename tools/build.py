@@ -7,6 +7,7 @@ Token: GITHUB_TOKEN env var, else `gh auth token`.
 """
 
 import base64
+import hashlib
 import datetime as dt
 import html
 import json
@@ -501,7 +502,10 @@ def footer():
 
 
 def readme():
-    img = lambda src, alt, width="100%": f'<img src="./assets/{src}" width="{width}" align="top" alt="{esc(alt)}">'
+    def img(src, alt, width="100%"):
+        # Content hash in the URL so browsers and GitHub's image cache pick up every redesign.
+        v = hashlib.sha1((ASSETS / src).read_bytes()).hexdigest()[:8]
+        return f'<img src="./assets/{src}?v={v}" width="{width}" align="top" alt="{esc(alt)}">'
     pct = f"{100 / len(C.LINKS):g}%"
     lines = ['<p align="center">',
              f'<a href="https://rocisapps.com">{img("header.svg", f"{C.NAME} ({C.HANDLE}). {C.TAGLINE}.")}</a>',
