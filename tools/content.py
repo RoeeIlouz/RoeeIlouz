@@ -7,14 +7,14 @@ HANDLE = "ROCI"
 TAGLINE = "EE student · indie builder · homelabber"
 MISSION = "building apps that get me through college"
 
-# Oscilloscope channel readouts on the right of the header: (channel, label, value, note)
-CHANNELS = [
-    ("CH1", "APPS", "Flutter · Dart", "Tasks + Schedule"),
-    ("CH2", "LAB", "Pi 5 · Debian 13", "30+ containers, 24/7"),
-    ("CH3", "AGENTS", "MCP · Claude Code", "agentic dev loops"),
+# Test points along the bottom of the header board: (ref, net, value, note)
+TEST_POINTS = [
+    ("TP1", "APPS", "Flutter · Dart", "Tasks + Schedule"),
+    ("TP2", "LAB", "Pi 5 · Debian 13", "30+ containers, 24/7"),
+    ("TP3", "AGENTS", "MCP · Claude Code", "agentic dev loops"),
 ]
 
-STATUS_BAR = ["TIMEBASE 1 semester/div", "TRIG ↑ espresso", "LOC Israel", "rocisapps.com"]
+STATUS_BAR = ["ROCI-MAIN REV 2026.10", "FUEL espresso", "LOC Israel", "rocisapps.com"]
 
 LINKS = [
     {"slug": "apps", "label": "rocisapps.com", "sub": "the apps", "href": "https://rocisapps.com"},
@@ -39,7 +39,7 @@ PROJECTS = [
     },
     {
         "slug": "rocis-schedule",
-        "kind": "ANDROID · iOS",
+        "kind": "ANDROID · WEB",
         "ref": "U2",
         "name": "ROCIs Schedule",
         "status": "BETA",
