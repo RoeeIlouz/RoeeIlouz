@@ -73,11 +73,23 @@ PROJECTS = [
         "href": "https://github.com/RoeeIlouz/ROCIsContextMenu-Editor",
         "footer": "github.com/RoeeIlouz/ROCIsContextMenu-Editor",
     },
+    {
+        "slug": "shalom-home",
+        "kind": "ANDROID · ON-DEVICE AI",
+        "ref": "U5",
+        "name": "Shalom Home",
+        "status": "LIVE",
+        "subtitle": "a voice home screen for my grandpa",
+        "desc": "Locked launcher with a talk-to-me button: Whisper + Gemma 3 run on the phone, in Hebrew and French. Open for Hacktoberfest.",
+        "tags": ["KOTLIN", "WHISPER.CPP", "HACKTOBERFEST"],
+        "href": "https://github.com/RoeeIlouz/shalom-home",
+        "footer": "github.com/RoeeIlouz/shalom-home",
+    },
 ]
 
 # Tech stack as a Bill of Materials: (designator, block, parts)
 BOM = [
-    ("U1-U4", "Languages", "Dart · Python · C · TypeScript · PowerShell · Bash"),
+    ("U1-U5", "Languages", "Dart · Python · C · TypeScript · PowerShell · Bash"),
     ("F1", "Frameworks", "Flutter · Provider/Riverpod · Firebase · Astro"),
     ("H1", "Infra", "Debian 13 · Docker Compose · Cloudflare ZT · Twingate · NPM"),
     ("A1", "AI tooling", "Claude Code · MCP servers · multi-agent workflows"),
