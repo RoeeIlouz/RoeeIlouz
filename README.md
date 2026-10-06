@@ -1,12 +1,13 @@
 <p align="center">
 <a href="https://rocisapps.com"><img src="./assets/header.svg?v=4713df5f" width="100%" align="top" alt="ROEE ILOUZ (ROCI). EE student · indie builder · homelabber."></a>
 <a href="https://rocisapps.com"><img src="./assets/links/apps.svg?v=e4d2f529" width="25%" align="top" alt="the apps: rocisapps.com"></a><a href="https://roee.ilouz.xyz"><img src="./assets/links/site.svg?v=d541bf14" width="25%" align="top" alt="portfolio: roee.ilouz.xyz"></a><a href="https://x.com/rocisapps"><img src="./assets/links/x.svg?v=3c8e51f1" width="25%" align="top" alt="on X: @rocisapps"></a><a href="mailto:roee@ilouz.xyz"><img src="./assets/links/mail.svg?v=84ecaa1c" width="25%" align="top" alt="email: roee@ilouz.xyz"></a>
-<img src="./assets/stats.svg?v=82ca8f24" width="100%" align="top" alt="Readouts: live GitHub stats and top languages">
-<img src="./assets/matrix.svg?v=0b0202d0" width="100%" align="top" alt="Contribution LED matrix for the last year">
+<img src="./assets/stats.svg?v=6491638d" width="100%" align="top" alt="Readouts: live GitHub stats and top languages">
+<img src="./assets/matrix.svg?v=edf8beb3" width="100%" align="top" alt="Contribution LED matrix for the last year">
 <img src="./assets/projects.svg?v=ec4e7124" width="100%" align="top" alt="Projects">
 <a href="https://play.google.com/store/apps/details?id=com.rocisapps.tasks"><img src="./assets/chips/rocis-tasks.svg?v=9c22d103" width="50%" align="top" alt="ROCIs Tasks (LIVE): tasks + calendar on one timeline"></a><a href="https://github.com/RoeeIlouz/ROCIs-Schedule"><img src="./assets/chips/rocis-schedule.svg?v=0fa1df4c" width="50%" align="top" alt="ROCIs Schedule (BETA): timetable, exams &amp; GPA for students"></a>
 <a href="https://github.com/RoeeIlouz/Homelab"><img src="./assets/chips/homelab.svg?v=4847c8e5" width="50%" align="top" alt="Homelab (LIVE): Raspberry Pi 5 production node"></a><a href="https://github.com/RoeeIlouz/ROCIsContextMenu-Editor"><img src="./assets/chips/context-menu-editor.svg?v=1ccdd94f" width="50%" align="top" alt="Context Menu Editor (LIVE): the Windows right-click menu, cleaned up"></a>
-<img src="./assets/stack.svg?v=b979b15a" width="100%" align="top" alt="Tech stack: Languages: Dart · Python · C · TypeScript · PowerShell · Bash; Frameworks: Flutter · Provider/Riverpod · Firebase · Astro; Infra: Debian 13 · Docker Compose · Cloudflare ZT · Twingate · NPM; AI tooling: Claude Code · MCP servers · multi-agent workflows; EE bench: circuit analysis · embedded C · mechatronics">
+<a href="https://github.com/RoeeIlouz/shalom-home"><img src="./assets/chips/shalom-home.svg?v=17339079" width="50%" align="top" alt="Shalom Home (LIVE): a voice home screen for my grandpa"></a>
+<img src="./assets/stack.svg?v=d4f10c24" width="100%" align="top" alt="Tech stack: Languages: Dart · Python · C · TypeScript · PowerShell · Bash; Frameworks: Flutter · Provider/Riverpod · Firebase · Astro; Infra: Debian 13 · Docker Compose · Cloudflare ZT · Twingate · NPM; AI tooling: Claude Code · MCP servers · multi-agent workflows; EE bench: circuit analysis · embedded C · mechatronics">
 <img src="./assets/footer.svg?v=5e3d315a" width="100%" align="top" alt="End of board.">
 </p>
 
