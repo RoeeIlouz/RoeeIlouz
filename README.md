@@ -1,8 +1,8 @@
 <p align="center">
 <a href="https://rocisapps.com"><img src="./assets/header.svg?v=4713df5f" width="100%" align="top" alt="ROEE ILOUZ (ROCI). EE student · indie builder · homelabber."></a>
 <a href="https://rocisapps.com"><img src="./assets/links/apps.svg?v=e4d2f529" width="25%" align="top" alt="the apps: rocisapps.com"></a><a href="https://roee.ilouz.xyz"><img src="./assets/links/site.svg?v=d541bf14" width="25%" align="top" alt="portfolio: roee.ilouz.xyz"></a><a href="https://x.com/rocisapps"><img src="./assets/links/x.svg?v=3c8e51f1" width="25%" align="top" alt="on X: @rocisapps"></a><a href="mailto:roee@ilouz.xyz"><img src="./assets/links/mail.svg?v=84ecaa1c" width="25%" align="top" alt="email: roee@ilouz.xyz"></a>
-<img src="./assets/stats.svg?v=1b57f42e" width="100%" align="top" alt="Readouts: live GitHub stats and top languages">
-<img src="./assets/matrix.svg?v=7e900209" width="100%" align="top" alt="Contribution LED matrix for the last year">
+<img src="./assets/stats.svg?v=34ab7b5a" width="100%" align="top" alt="Readouts: live GitHub stats and top languages">
+<img src="./assets/matrix.svg?v=5cebc9a8" width="100%" align="top" alt="Contribution LED matrix for the last year">
 <img src="./assets/projects.svg?v=ec4e7124" width="100%" align="top" alt="Projects">
 <a href="https://play.google.com/store/apps/details?id=com.rocisapps.tasks"><img src="./assets/chips/rocis-tasks.svg?v=9c22d103" width="50%" align="top" alt="ROCIs Tasks (LIVE): tasks + calendar on one timeline"></a><a href="https://github.com/RoeeIlouz/ROCIs-Schedule"><img src="./assets/chips/rocis-schedule.svg?v=0fa1df4c" width="50%" align="top" alt="ROCIs Schedule (BETA): timetable, exams &amp; GPA for students"></a>
 <a href="https://github.com/RoeeIlouz/Homelab"><img src="./assets/chips/homelab.svg?v=4847c8e5" width="50%" align="top" alt="Homelab (LIVE): Raspberry Pi 5 production node"></a><a href="https://github.com/RoeeIlouz/ROCIsContextMenu-Editor"><img src="./assets/chips/context-menu-editor.svg?v=1ccdd94f" width="50%" align="top" alt="Context Menu Editor (LIVE): the Windows right-click menu, cleaned up"></a>
